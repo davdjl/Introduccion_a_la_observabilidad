@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Observabilidad y monitoreo"
 description: "Sección enfocada a los pilares de observabilidad y entendimiento de cada uno de ellos, además de integrar diferentes plataformas de observabilidad para el monitoreo de datos"
@@ -6,7 +5,6 @@ customSlug: "observabilidad-y-monitoreo"
 folder: "Observabilidad"
 subfolder: ""
 ---
-```
 
 # Introducción
 Primero que nada debemos tener bien en mente que **la observabilidad es la capacidad de comprender el estado de un sistema** mediante el analisis de sus datos, esto nos permite detectar e identificar qué, como, cuando y donde ocurre cualquier problema y/o errores que se presente en nuestro sistema.
