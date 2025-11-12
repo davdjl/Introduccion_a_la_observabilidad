@@ -1,3 +1,13 @@
+```yaml
+---
+title: "Recolección de metricas mediante agentes"
+description: "Se describen los agentes que permiten la recolección de metricas y las consideraciones que se deben tener en cuenta para una correcta implementación"
+customSlug: "recoleccion-de-metricas-mediante-agentes"
+folder: "Observabilidad"
+subfolder: "Pilares de la observabilidad"
+---
+```
+
 # Agentes
 Para realizar la recolección de metricas existen multiples metodos de obtención que podemos estar utilizando, el más común es utilizar agentes desarrollados por las propias tecnologías de observabilidad.
 ## Consideraciones
