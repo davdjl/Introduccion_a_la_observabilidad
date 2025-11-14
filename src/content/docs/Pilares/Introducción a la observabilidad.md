@@ -24,7 +24,7 @@ Las metricas son el pilar mas simple de toda la observabilidad, estas nos permit
 
 El monitoreo de trazas es un APM (Aplication performance monitoring) que se compone por una traza principal y que puede o no contener uno o multiples spans, estos elementos son los que nos permiten monitorear el rendimiento de las solicitudes en un sistema, desde que una solicitud es registrada en el frontend, es posible ver el recorrido que se realizó por todos los componentes del sistema, logrando comprender la ruta y el rendimiento de la solicitud, cuellos de botella y diagnosticar problemas de latencia.
 
-![APM](../../../public/images/flameGraph.avif)
+![APM](../../../../public/images/flameGraph.avif)
 
 
 # Logs
