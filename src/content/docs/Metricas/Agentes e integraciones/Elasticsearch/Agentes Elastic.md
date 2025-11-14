@@ -3,7 +3,7 @@ title: "Agentes en elasticsearch"
 description: "Describe las caracteristicas y principales configuraciones de un agente de elasticsearch"
 customSlug: "agentes-en-elasticsearch"
 folder: "Observabilidad"
-subfolder: "Pilares de la observabilidad"
+subfolder: "Metricas Elasticsearch"
 ---
 # Consideraciones de Metricbeat
 Para la instalación del agente de Metricbeat podemos seguir el paso a paso de la [pagina oficial](https://www.elastic.co/docs/reference/beats/metricbeat/metricbeat-installation-configuration), pero en esta sección hablaremos sobre los puntos a revisar durante la instalación o las consideraciones que hay que tener en cuenta.
